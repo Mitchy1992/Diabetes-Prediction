@@ -1,9 +1,7 @@
-# Diabetes-Prediction
+
 
 # The Likelihood of a Respondent Having Diabetes
-(Prediction using the BRFSS Dataset)
-
-conducted by Mitul Galav
+(Prediction using the BRFSS Dataset) conducted by Mitul Galav
 
 ![BRFSS](https://blogger.googleusercontent.com/img/proxy/AVvXsEii8b1cBo7EN1Tm9dmP-t-a05yPy4_QGfPH0WIFf1NtESgNe3lVZn5k_XrXELJHNk6lEQw1MC7HhSbAIUARFcfFcslIjIcRfASEn_TomTNc-YDTaineumGbMK9EsrRbU6OA2oSKJSfsTZsWUUp67LFv71u2mMfp8a-nJBDkRXnV4q67uhZgOfndzBV7fxnZczEcXHbPLhftn6AdbuUAGoOdI-sCqWxhJqwR4D72RVRjb0A-Bg=s0-d-e1-ft)
 
